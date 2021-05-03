@@ -1,0 +1,14 @@
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\DDSiSampleforTest.exe.config
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\DDSiSampleforTest.exe
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\DDSiSampleforTest.pdb
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\NPOI.dll
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\NPOI.OOXML.dll
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\NPOI.OpenXml4Net.dll
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\obj\Debug\DDSiSampleforTest.exe
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\obj\Debug\DDSiSampleforTest.pdb
+C:\A557652\PNG\IND_PUN_PANDG_Local\SampleProjectforTest\DDSiSampleforTest\DDSiSampleforTest\obj\Debug\DDSiSampleforTest.csprojResolveAssemblyReference.cache
+C:\A557652\GIT\FirstProject\DDSiSampleforTest\bin\Debug\DDSiSampleforTest.exe.config
+C:\A557652\GIT\FirstProject\DDSiSampleforTest\obj\Debug\DDSiSampleforTest.exe
